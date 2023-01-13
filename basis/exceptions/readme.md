@@ -1,0 +1,1 @@
+Read about exceptions handling in C++ [here](../../docs/exceptions_handling.md)

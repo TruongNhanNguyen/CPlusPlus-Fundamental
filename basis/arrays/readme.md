@@ -1,0 +1,1 @@
+Read the docs [here](../../docs/array.md)

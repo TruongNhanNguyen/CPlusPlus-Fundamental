@@ -1,0 +1,1 @@
+Read more about STL Searching Algorithms [here](../../../../docs/standard%20template%20library/algorithms/searching.md)

@@ -1,0 +1,1 @@
+Read more about [memory management](../../docs/memory_management.md) to understand pointer.

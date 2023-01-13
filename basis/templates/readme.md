@@ -1,0 +1,1 @@
+Read Templates in C++ [here](../../docs/template.md)

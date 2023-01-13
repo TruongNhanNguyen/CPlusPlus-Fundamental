@@ -1,0 +1,1 @@
+All about basis of CPlusPlus are written [here](../../docs/basis.md)
